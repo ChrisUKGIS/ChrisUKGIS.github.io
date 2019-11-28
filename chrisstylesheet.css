@@ -2,11 +2,13 @@ title {
   font-family: arial;
   font-size: 24px;
   margin: auto;
+  text-align: center
 
 body {
   background-color: lightblue;
   font-family: arial;
   margin: auto;
+  text-align: center;
 }
 
 h1 {
@@ -14,10 +16,12 @@ h1 {
   font-family: arial;
   text-align: center;
   margin: auto;
+  text-align: center
 }
 
 p {
   font-family: arial;
   font-size: 20px;
   margin: auto;
+  text-align: center
 }
